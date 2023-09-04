@@ -1,0 +1,6 @@
+SELECT CASE
+		WHEN price > 0 THEN 'Paid'
+        ELSE 'Free'
+END AS App_type,AVG(user_rating)
+FROM AppleStore
+GROUP BY App_type
