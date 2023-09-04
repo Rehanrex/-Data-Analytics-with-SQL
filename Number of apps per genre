@@ -1,0 +1,4 @@
+SELECT prime_genre,COUNT(*) AS NumApps
+FROM AppleStore 
+GROUP BY prime_genre
+ORDER BY NumApps DESc
