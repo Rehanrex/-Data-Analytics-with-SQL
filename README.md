@@ -5,3 +5,4 @@ Finding Business Questions using SQL
 3-Check genres with low rating
 4-Check if there is a correlation between the length of the description and the user rating
 5-Check the top rated apps for each category/genre
+##Final Recommendations
