@@ -1,0 +1,5 @@
+SELECT prime_genre,AVG(user_rating) AS avg_user_rating
+FROM AppleStore
+GROUP BY prime_genre
+ORDER BY avg_user_rating
+LIMIT 10
