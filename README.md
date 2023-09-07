@@ -1,4 +1,4 @@
-# -Data-Analytics-with-SQL
+# Data-Analytics-with-SQL
 Finding Business Questions using SQL
 1-Determine whether paid apps have more rating than free apps
 2-Check if apps with more supported languages have higher rating
